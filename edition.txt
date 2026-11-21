@@ -2,3 +2,4 @@ issue resolved
 third edition
 second edition
 first edition
+Hotfix team's solution
